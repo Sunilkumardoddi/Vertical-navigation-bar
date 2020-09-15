@@ -1,0 +1,15 @@
+.iconbar{
+    width: 90px;
+    background-color: #555;
+    height: 100vh;
+}
+.iconbar a{
+    display: block;
+    text-align: center;
+    padding:16px;
+    color:white;
+    font-size: 36px;
+}
+.active{
+    background-color: darkturquoise;
+}
